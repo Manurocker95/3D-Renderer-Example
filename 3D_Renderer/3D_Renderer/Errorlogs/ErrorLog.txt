@@ -1,0 +1,301 @@
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Coche.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_086086086". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_176026026". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "Material__27". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_255255255". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.
+No se puede cargar correctamente el OBJ con ruta:  Assets\Graphics\Models\Casa.obj   debido al error:
+
+WARN: Both `d` and `Tr` parameters defined for "wire_061135006". Use the value of `d` for dissolve.
+WARN: Both `d` and `Tr` parameters defined for "wire_135006006". Use the value of `d` for dissolve.
+
+
+El programa va a continuar.

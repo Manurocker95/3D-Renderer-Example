@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene name="Escena 1" id ="0">
+  
+  <object name="tree">
+    <file>tree.obj</file>
+    <position>100,0,-200</position>
+    <rotation>0.5,0,0</rotation>
+    <scale>0.002</scale>
+  </object>
+  
+  <object name="car">
+    <file>car.obj</file>
+    <position>-50,0,-150</position>
+    <rotation>0,0,0</rotation>
+    <scale>0.05</scale>
+  </object>
+  
+</scene>

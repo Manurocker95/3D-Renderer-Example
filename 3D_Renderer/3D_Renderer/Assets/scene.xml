@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene name="Escena 1" id ="0">
+  <object name="Casa">
+    <file>Casa.obj</file>
+    <position>0,0,-1</position>
+    <rotation>0,0.25,0</rotation>
+    <scale>0.002</scale>
+    <moving>true</moving>
+  </object>
+</scene>
